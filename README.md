@@ -1,2 +1,2 @@
 # Python_Fundamentals
-Fundamentals of Python, written in Jupyter Notebook
+Fundamentals of Python, scripted in Jupyter Notebook
